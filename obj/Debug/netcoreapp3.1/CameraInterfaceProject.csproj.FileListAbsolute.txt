@@ -1,0 +1,12 @@
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.csprojAssemblyReference.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.AssemblyInfoInputs.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.AssemblyInfo.cs
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.csproj.CoreCompileInputs.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/netcoreapp3.1/CameraInterfaceProject.deps.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/netcoreapp3.1/CameraInterfaceProject.runtimeconfig.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/netcoreapp3.1/CameraInterfaceProject.runtimeconfig.dev.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/netcoreapp3.1/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/netcoreapp3.1/CameraInterfaceProject.pdb
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.pdb
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/netcoreapp3.1/CameraInterfaceProject.genruntimeconfig.cache

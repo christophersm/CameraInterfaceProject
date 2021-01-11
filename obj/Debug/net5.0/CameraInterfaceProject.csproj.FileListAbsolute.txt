@@ -1,0 +1,15 @@
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/CameraInterfaceProject.deps.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/CameraInterfaceProject.runtimeconfig.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/CameraInterfaceProject.runtimeconfig.dev.json
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/ref/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/bin/Debug/net5.0/CameraInterfaceProject.pdb
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.csprojAssemblyReference.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.AssemblyInfoInputs.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.AssemblyInfo.cs
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.csproj.CoreCompileInputs.cache
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/ref/CameraInterfaceProject.dll
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.pdb
+/Users/christophermumma/GIT/GitLab/mumma-projects/CameraInterfaceProject/obj/Debug/net5.0/CameraInterfaceProject.genruntimeconfig.cache
